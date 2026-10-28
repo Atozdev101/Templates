@@ -4,7 +4,7 @@
     "serviceId": "combined",
     "serviceName": "send.io email",
     "version": 1,
-    "logoUrl": "https://app.send.io/logo.svg",
+    "logoUrl": "https://app.send.io/favicon.svg",
     "description": "Sends email for this domain through send.io: one DKIM key and a return path that work for every send.io sending route, plus optional receiving.",
     "variableDescription": "selector: the DKIM selector (e.g. sio1); dkimkey: the domain's key label in send.io's key zone; inboundHost: the send.io inbound host label (e.g. mx).",
     "syncPubKeyDomain": "send.io",
